@@ -1,8 +1,12 @@
 "# Numbers-Classification" 
 
-== Decription
+==
+Decription
+=
 In this project, an artificial neural network model was created that predicts numbers from 0 to 9.
 
-== Tools
+== 
+Tools
+=
 TensorFlow
 Mnist data set
