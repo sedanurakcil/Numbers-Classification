@@ -8,5 +8,5 @@ In this project, an artificial neural network model was created that predicts nu
 == 
 Tools
 =
-TensorFlow
+TensorFlow,
 Mnist data set
